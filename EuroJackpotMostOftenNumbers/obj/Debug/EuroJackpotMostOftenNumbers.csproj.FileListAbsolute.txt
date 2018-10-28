@@ -1,0 +1,10 @@
+C:\Users\marci\source\repos\EuroJackpotMostOftenNumbers\EuroJackpotMostOftenNumbers\bin\Debug\EuroJackpotMostOftenNumbers.exe.config
+C:\Users\marci\source\repos\EuroJackpotMostOftenNumbers\EuroJackpotMostOftenNumbers\bin\Debug\EuroJackpotMostOftenNumbers.exe
+C:\Users\marci\source\repos\EuroJackpotMostOftenNumbers\EuroJackpotMostOftenNumbers\bin\Debug\EuroJackpotMostOftenNumbers.pdb
+C:\Users\marci\source\repos\EuroJackpotMostOftenNumbers\EuroJackpotMostOftenNumbers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marci\source\repos\EuroJackpotMostOftenNumbers\EuroJackpotMostOftenNumbers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marci\source\repos\EuroJackpotMostOftenNumbers\EuroJackpotMostOftenNumbers\obj\Debug\EuroJackpotMostOftenNumbers.csprojAssemblyReference.cache
+C:\Users\marci\source\repos\EuroJackpotMostOftenNumbers\EuroJackpotMostOftenNumbers\obj\Debug\EuroJackpotMostOftenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\EuroJackpotMostOftenNumbers\EuroJackpotMostOftenNumbers\obj\Debug\EuroJackpotMostOftenNumbers.csproj.CopyComplete
+C:\Users\marci\source\repos\EuroJackpotMostOftenNumbers\EuroJackpotMostOftenNumbers\obj\Debug\EuroJackpotMostOftenNumbers.exe
+C:\Users\marci\source\repos\EuroJackpotMostOftenNumbers\EuroJackpotMostOftenNumbers\obj\Debug\EuroJackpotMostOftenNumbers.pdb
